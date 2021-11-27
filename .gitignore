@@ -1,0 +1,8 @@
+zig-cache/
+zig-out/
+
+.gyro/
+deps.zig
+
+out/
+columns.txt

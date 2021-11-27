@@ -1,0 +1,8 @@
+deps:
+  csv:
+    src:
+      github:
+        user: beho
+        repo: zig-csv
+        ref: main
+    root: src/main.zig
